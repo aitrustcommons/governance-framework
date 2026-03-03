@@ -117,7 +117,7 @@ I founded AI Trust Commons because the governance layer the industry needs — c
 
 **Nikhil Singhal**
 CTO | VP Engineering | 25 years across Microsoft, AT&T, T-Mobile, Expedia, Hitachi
-[LinkedIn](https://linkedin.com/in/nikhilsinghal) · [GitHub](https://github.com/nikhilsi)
+[LinkedIn](https://linkedin.com/in/nikhilsinghal) · [GitHub](https://github.com/nikhilsi) · [Email](mailto:nikhil@aitrustcommons.org)
 
 ## Contributing
 
