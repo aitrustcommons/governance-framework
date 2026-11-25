@@ -1,3 +1,5 @@
+> Archived November 2026. This was the plan for a governance framework. The work continues at [aitrustcommons.org](https://aitrustcommons.org).
+
 # AI Trust Commons — Governance Framework
 
 **Cross-provider governance and compliance for AI agents in the enterprise.**
